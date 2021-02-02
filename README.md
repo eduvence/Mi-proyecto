@@ -1,2 +1,2 @@
 # Mi-proyecto
-Este es mi prime proyecto con git
+Este es mi primer proyecto con git
